@@ -61,7 +61,7 @@
     "uuid": "8.3.1"
   },
   "devDependencies": {
-    "@agreed/cli": "5.1.10",
+    "@agreed/cli": "5.2.0",
     "@agreed/typed": "5.1.10",
     "@babel/core": "7.12.3",
     "@storybook/addon-actions": "6.1.0",
