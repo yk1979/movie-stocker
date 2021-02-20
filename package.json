@@ -62,7 +62,7 @@
   },
   "devDependencies": {
     "@agreed/cli": "5.1.10",
-    "@agreed/typed": "5.1.10",
+    "@agreed/typed": "5.2.0",
     "@babel/core": "7.12.3",
     "@storybook/addon-actions": "6.1.18",
     "@storybook/addon-info": "5.3.21",
