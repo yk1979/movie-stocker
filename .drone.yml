@@ -4,18 +4,18 @@ name: default
 
 steps:
   - name: install
-    image: node:12.19.1-alpine
+    image: node:12.21.0-alpine
     commands:
       - npm install
   - name: lint
-    image: node:12.19.1-alpine
+    image: node:12.21.0-alpine
     commands:
       - npm run lint
   - name: build
-    image: node:12.19.1-alpine
+    image: node:12.21.0-alpine
     commands:
       - npm run build
   - name: storybook
-    image: node:12.19.1-alpine
+    image: node:12.21.0-alpine
     commands:
       - npm run build-storybook
