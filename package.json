@@ -108,6 +108,6 @@
     "stylelint-processor-styled-components": "1.10.0",
     "ts-loader": "8.0.11",
     "ts-node": "9.0.0",
-    "typescript": "4.0.5"
+    "typescript": "4.2.3"
   }
 }
